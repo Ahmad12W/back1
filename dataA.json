@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "Ahmad",
+        "lname": "Salah",
+        "age": 20,
+        "city": "Alex"
+    },
+    {
+        "id": 3,
+        "fname": "Esraa",
+        "lname": "Khalid",
+        "age": 22,
+        "city": "Alex"
+    },
+    {
+        "id": 4,
+        "fname": "Mostafa",
+        "lname": "Ahmad",
+        "age": 20,
+        "city": "Alex"
+    },
+    {
+        "id": 7,
+        "fname": "Saber",
+        "lname": "Ahmad",
+        "age": 22,
+        "city": "Abu Homms"
+    },
+    {
+        "id": 8,
+        "fname": "Eman",
+        "lname": "MOHAMED",
+        "age": 30,
+        "city": "Mansora"
+    },
+    {
+        "id": 10,
+        "fname": "Khalil",
+        "lname": "MOHAMED",
+        "age": 24,
+        "city": "Cairo"
+    }
+]
